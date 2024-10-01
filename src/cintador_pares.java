@@ -10,5 +10,6 @@ public class cintador_pares {
             }
         }
         System.out.println("la cantidad de numeros pares es: "+container);
+        System.out.println("la HOLI numeros pares es: "+container);
     }
 }
